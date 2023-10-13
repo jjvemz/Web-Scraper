@@ -1,4 +1,4 @@
-# Web Scraper with MongoDB
+# Web Scraper with MongoDB (Work in progress)
 
 This is a web scraping project that collects data from specific websites and stores it in a MongoDB database. This document provides information on how to set up and run the project.
 
