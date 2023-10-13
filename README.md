@@ -28,7 +28,7 @@ Configure the .env file with the necessary information. Specify the URL of the w
   WEBSITE_URL=http://books.toscrape.com
 
   ```
-##Usage
+## Usage
 
 To run the project, use the following command:
 
@@ -37,15 +37,15 @@ To run the project, use the following command:
   ```
 This will initiate the web scraping process and store the data in the MongoDB database according to the configuration provided in the .env file.
 
-##Contributions
+## Contributions
 
 If you want to contribute to the project, please feel free to do so. You can open issues or submit pull requests in the repository.
 
-##License
+## License
 
 This project is distributed under the MIT License.
 
-##Contact
+## Contact
 
 If you have any questions or need assistance, don't hesitate to get in touch with the project author:
 Juan José
